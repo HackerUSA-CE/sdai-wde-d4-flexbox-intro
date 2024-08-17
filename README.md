@@ -5,6 +5,8 @@
 
 This introductory activity will help you learn and practice CSS Flexbox properties including `display`, `flex-direction`, `align-items`, and `justify-content`. Flexbox is a powerful layout module in CSS that allows you to design complex layouts with ease and flexibility. By mastering these properties, you'll be able to create responsive and adaptive web layouts that work seamlessly across different devices and screen sizes.
 
+This activity is meant to be done together as a class.
+
 ---
 
 ## Learning Outcomes
